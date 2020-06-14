@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "HDFC East Code Branch",
+    "x_dest": 129,
+    "y_dest": 94,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "HDFC LB Road Branch",
+    "x_dest": 204,
+    "y_dest": 315,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  }
+]

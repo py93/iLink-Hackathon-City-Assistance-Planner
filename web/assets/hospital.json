@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "name": "Apollo Hospital",
+    "x_dest": 77,
+    "y_dest": 21,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "GEM Hospital",
+    "x_dest": 193,
+    "y_dest": 367,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Kauvery Hospital",
+    "x_dest": 251,
+    "y_dest": 205,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  }
+]

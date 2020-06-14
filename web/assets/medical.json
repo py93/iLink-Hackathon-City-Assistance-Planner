@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Vedant Medicals",
+    "x_dest": 192,
+    "y_dest": 242,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "Balaji Medical Store",
+    "x_dest": 242,
+    "y_dest": 298,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "K.P Medical Store",
+    "x_dest": 314,
+    "y_dest": 127,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "T.Nagar Pharmacy",
+    "x_dest": 333,
+    "y_dest": 23,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  }
+]

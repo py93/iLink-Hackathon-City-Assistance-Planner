@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": "Apollo Hospital",
+    "x_dest": 98,
+    "y_dest": 33,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "GEM Hospital",
+    "x_dest": 30,
+    "y_dest": 23,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Kauvery Hospital",
+    "x_dest": 69,
+    "y_dest": 6,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Fortis Hospital",
+    "x_dest": 94,
+    "y_dest": 86,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Chennai Hospital",
+    "x_dest": 22,
+    "y_dest": 1,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "MedIndia Hospital",
+    "x_dest": 83,
+    "y_dest": 9,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "K.M.Hospital",
+    "x_dest": 79,
+    "y_dest": 36,
+    "dist": 0.00,
+    "start": "00:00",
+    "count": 0
+  }
+]

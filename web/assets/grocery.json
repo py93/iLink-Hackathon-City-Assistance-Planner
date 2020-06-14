@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Agarwal Foods",
+    "x_dest": 24,
+    "y_dest": 306,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "Chennai Grocery Store",
+    "x_dest": 237,
+    "y_dest": 10,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "More SuperMarket",
+    "x_dest": 290,
+    "y_dest": 345,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Madras Super Market",
+    "x_dest": 374,
+    "y_dest": 261,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  }
+]

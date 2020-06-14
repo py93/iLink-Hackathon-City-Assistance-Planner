@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "name": "Axis Bank Branch 1",
+    "x_dest": 11,
+    "y_dest": 96,
+    "dist": 0.00,
+    "start": "0:00",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "Axis Bank Branch 2",
+    "x_dest": 16,
+    "y_dest": 85,
+    "dist": 0.00,
+    "start": "0:00",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Axis Bank Branch 3",
+    "x_dest": 73,
+    "y_dest": 43,
+    "dist": 0.00,
+    "start": "0:00",
+    "count": 0
+  }
+]

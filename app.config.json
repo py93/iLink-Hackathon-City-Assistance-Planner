@@ -1,0 +1,7 @@
+{
+    "redishost": "localhost",
+    "redisport": 6379,
+    "flaskhost": "0.0.0.0",
+    "flaskport": 5000,
+    "flaskdebug": true
+}

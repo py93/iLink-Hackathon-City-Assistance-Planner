@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "SBI E Main Road Branch",
+    "x_dest": 166,
+    "y_dest": 120,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  },
+  {
+    "id": 1,
+    "name": "SBI Egmore Branch",
+    "x_dest": 368,
+    "y_dest": 122,
+    "dist": 0.00,
+    "start": "now",
+    "count": 0
+  }
+]
