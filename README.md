@@ -10,7 +10,12 @@ Developed with the efforts of:
 - Shubham Jain
 - Yashpal Khatri
 
-Proposed Shortest Path Solution: [Shortest Path Solution](https://github.com/py93/iLink-Hackathon-City-Assistance-Planner/blob/master/ShortestPath/src/com/iLink/Hackathon/ShortestPath.java)
+Application:
+
+![Application](https://github.com/py93/iLink-Hackathon-City-Assistance-Planner/blob/master/web/assets/Applicaton.png?raw=true)
+
+
+### Proposed Shortest Path Solution: [Shortest Path Solution](https://github.com/py93/iLink-Hackathon-City-Assistance-Planner/blob/master/ShortestPath/src/com/iLink/Hackathon/ShortestPath.java)
 
 For the given input map:
 
